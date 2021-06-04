@@ -1,0 +1,44 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Go template
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+venus-plugin-namespace
+
+
+# Test binary, build with `go test -c`
+*.test
+
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+bin
+venus-plugin-namespace.iml
+
+# VSCode 
+debug
+.vscode
+
+# tmp file
+*.tmp
+
+# tar file
+*.tar
+
+conf/ssl/*.pem
+
+# beego
+routers/commentsRouter___*
+
+#
+_output
